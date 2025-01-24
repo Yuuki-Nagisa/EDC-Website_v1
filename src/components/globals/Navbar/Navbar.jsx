@@ -40,7 +40,7 @@ const Navbar = () => {
                     <Link href="/contact">Reach Us</Link>
                 </li>
                 <li>
-                    <Link href="/esummit">E-Summit 24</Link>
+                    <Link href="/udbhav">E-Summit 24</Link>
                 </li>
             </ul>
         </nav>

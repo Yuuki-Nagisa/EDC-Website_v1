@@ -1,8 +1,5 @@
-import { AboutPage } from "../../../sites";
-
+import { AboutPage } from "@/sites";
 
 export default function About() {
-    return (
-        <AboutPage />
-    );
+    return <AboutPage />;
 }

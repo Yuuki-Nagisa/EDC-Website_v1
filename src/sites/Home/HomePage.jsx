@@ -1,5 +1,5 @@
-import { Navbar } from "../../components/globals";
-import { Hero, Welcome, Carousel } from "../../components/home";
+import { Navbar } from "@components/globals";
+import { Hero, Welcome, Carousel } from "@components/home";
 
 import "./Homepage.css";
 

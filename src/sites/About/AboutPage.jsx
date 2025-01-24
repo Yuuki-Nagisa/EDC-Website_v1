@@ -4,7 +4,7 @@ import {
     Mission,
     Membership,
     JoinUs,
-} from "../../components/about";
+} from "@components/about";
 
 export default function AboutPage() {
     return (

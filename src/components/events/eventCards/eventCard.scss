@@ -1,5 +1,5 @@
 /* Events section */
-.card {
+.event-card {
     box-shadow: 0 -5px 25px 0 rgba(4, 1, 63, 0.986);
     background-color: #01010e93;
     transition: 0.3s;
@@ -7,12 +7,12 @@
     /* 5px rounded corners */
 }
 
-.card:hover {
+.event-card:hover {
     box-shadow: 0 -5px 35px 0 rgba(6, 1, 114, 0.986);
     cursor: pointer;
 }
 
-.card-img-top {
+.event-card-img-top {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -25,22 +25,22 @@
     /* Rounded corners at the top */
 }
 
-.card-body {
+.event-card-body {
     padding: 1em;
 }
 
-.card-title {
+.event-card-title {
     font-size: 1.25em;
     font-weight: bold;
     color: white;
 }
 
-.card-text {
+.event-card-text {
     font-size: 1em;
     color: #b6afaf;
 }
 
-/* upcoming event card buttons */
+/* upcoming event event-card buttons */
 .btn-primary-upcoming {
     border: none;
     color: white;
@@ -95,7 +95,7 @@
     vertical-align: middle;
 }
 
-.card {
+.event-card {
     width: calc((100% / 3) - 40px);
     margin: 0 50px 30px;
     position: relative;
@@ -103,7 +103,7 @@
     border-radius: 20px;
 }
 
-.card .card-img-top {
+.event-card .event-card-img-top {
     width: calc(100% - 60px);
     position: relative;
     z-index: 1;
@@ -113,14 +113,14 @@
 /* .coreteam-item:hover img{
    transform: translatey(-60px);
 } */
-.card .body {
+.event-card .body {
     color: white;
     border: 2px solid white;
     display: inline-block;
     margin: 10px 50px;
 }
 
-.card h3 {
+.event-card h3 {
     font-family: "Raleway", sans-serif;
     position: absolute;
     background: #070707bd;
@@ -138,22 +138,22 @@
 }
 
 @media screen and (max-width: 479px) {
-    .card {
+    .event-card {
         width: 100%;
         margin-bottom: 20px;
     }
 
-    .card {
+    .event-card {
         margin: 10px;
     }
 
-    .card-title {
+    .event-card-title {
         font-size: 1.02em;
         font-weight: bold;
         color: white;
     }
 
-    .card-text {
+    .event-card-text {
         font-size: 0.8em;
         color: #b6afaf;
     }

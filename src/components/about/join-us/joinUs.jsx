@@ -3,7 +3,7 @@ import "./joinUs.scss";
 
 export default function JoinUs() {
     return (
-        <div class="join-us">
+        <div className="join-us">
             <h3>
                 How to <span id="join">Join ?</span>
             </h3>

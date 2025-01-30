@@ -41,7 +41,7 @@
     font-size: 24px;
 }
 
-.card {
+.mission-card {
     max-width: 400px;
     border: 0;
     width: 100%;
@@ -91,7 +91,7 @@
     background: linear-gradient(71deg, #0c0a0e, #5f6fad, #0c0a0e);
 }
 
-.card-title {
+.mission-card-title {
     font-weight: 600;
     font-family: var(--heading-font);
     color: rgb(255, 255, 255);
@@ -101,7 +101,7 @@
     font-size: 28px;
 }
 
-.card-description {
+.mission-card-description {
     font-weight: 400;
     font-family: var(--paragraph-font);
     line-height: 32px;
@@ -130,10 +130,10 @@
     .mission-container-card {
         padding: 20px;
     }
-    .card-title {
+    .mission-card-title {
         font-size: 24px;
     }
-    .card-description {
+    .mission-card-description {
         font-size: 14px;
     }
     .mission-container-card img {

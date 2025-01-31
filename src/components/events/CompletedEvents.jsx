@@ -1,6 +1,6 @@
 import { EventCard } from ".";
 import eventData from "./eventCards/eventData";
-
+import "./eventCards.scss";
 export default function CompletedEvents() {
     const completedEvents = eventData.filter(
         (event) => event.completed === true
@@ -8,10 +8,14 @@ export default function CompletedEvents() {
 
     return (
         <section>
-            <h2>PAST <span>EVENTS</span></h2>
-            {completedEvents.map((eventCardData, id) => (
-                <EventCard key={id} {...eventCardData} />
-            ))}
+            <h2>
+                PAST <span>EVENTS</span>
+            </h2>
+            <div className="event-cards">
+                {completedEvents.map((eventCardData, id) => (
+                    <EventCard key={id} {...eventCardData} />
+                ))}
+            </div>
         </section>
     );
 }

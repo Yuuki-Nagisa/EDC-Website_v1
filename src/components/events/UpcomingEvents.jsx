@@ -14,9 +14,11 @@ export default function UpcomingEvents() {
             <h2>
                 UPCOMING <span>EVENTS</span>
             </h2>
-            {completedEvents.map((eventCardData, id) => (
-                <EventCard key={id} {...eventCardData} />
-            ))}
+            <div className="event-cards">
+                {completedEvents.map((eventCardData, id) => (
+                    <EventCard key={id} {...eventCardData} />
+                ))}
+            </div>
         </section>
     );
 }

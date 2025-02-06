@@ -1,13 +1,14 @@
 import { EventCard } from ".";
 import eventData from "./eventCards/eventData";
 import "./eventCards.scss";
+import "./eventSection.scss";
 export default function CompletedEvents() {
     const completedEvents = eventData.filter(
         (event) => event.completed === true
     );
 
     return (
-        <section>
+        <section className="event-section">
             <h2>
                 PAST <span>EVENTS</span>
             </h2>

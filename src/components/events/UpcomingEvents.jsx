@@ -1,6 +1,7 @@
 import { EventCard } from ".";
 import eventData from "./eventCards/eventData";
-
+import "./eventCards.scss";
+import "./eventSection.scss";
 export default function UpcomingEvents() {
     const completedEvents = eventData.filter(
         (event) => event.completed === false
@@ -10,7 +11,7 @@ export default function UpcomingEvents() {
     }
 
     return (
-        <section className="upcoming-events">
+        <section className="event-section">
             <h2>
                 UPCOMING <span>EVENTS</span>
             </h2>

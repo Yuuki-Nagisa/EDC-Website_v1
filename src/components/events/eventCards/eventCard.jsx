@@ -1,7 +1,7 @@
 import "./eventCard.scss";
 import Image from "next/image";
 export default function EventCard({ ...eventData }) {
-    const { image, title, date, venue } = eventData;
+    const { image, title, date, venue,completed,link } = eventData;
 
     return (
         <div className="event-card" style={{ width: "21rem" }}>
@@ -12,9 +12,15 @@ export default function EventCard({ ...eventData }) {
                     Date: {date} <br />
                     Venue: {venue}
                 </p>
-                <a href="#" className="btn btn-primary">
-                    Registrations Closed
-                </a>
+                {completed ? (
+                    <button className="event-button" disabled>
+                        Registrations Closed
+                    </button>
+                ) : (
+                        <button className="event-button event-button-upcoming">
+                            <a href={link} style={{ color: "white" }}>Register</a>
+                        </button>
+                )}
             </div>
         </div>
     );

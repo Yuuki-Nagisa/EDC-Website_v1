@@ -42,8 +42,6 @@
     color: #b6afaf;
 }
 
-
-
 .event-button {
     border: none;
     color: white;
@@ -53,7 +51,7 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 20px;
     cursor: pointer;
     align-self: center;
@@ -62,6 +60,7 @@
 
 .event-button:hover {
     background-color: #ff1e00;
+    background-color: #ff6b57;
 }
 /* upcoming event event-card buttons */
 .event-button-upcoming {
@@ -86,7 +85,6 @@
     z-index: 1;
     transition: transform 0.5s ease;
 }
-
 
 .event-card .body {
     color: white;
@@ -117,7 +115,7 @@
 
 @media screen and (max-width: 479px) {
     .event-card {
-        width: 100%;
+        width: 90%;
         margin-bottom: 20px;
     }
 
@@ -126,37 +124,16 @@
     }
 
     .event-card-title {
-        font-size: 1.02em;
-        font-weight: bold;
-        color: white;
+        font-size: 1.2em;
     }
 
     .event-card-text {
-        font-size: 0.8em;
-        color: #b6afaf;
+        font-size: 1em;
     }
 
     .event-button {
-        /* background-color: #007bff; */
-        border: none;
-        color: white;
         padding: 15px 32px;
-        background-color: #ff1e00b7;
-        border: none;
-        color: white;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
         font-size: 14px;
         margin-top: 20px;
-        margin-left: 42px;
-        cursor: pointer;
-        transition-duration: 0.4s;
-    }
-
-    .event-button:hover {
-        background-color: #ff6b57;
-        color: white;
     }
 }

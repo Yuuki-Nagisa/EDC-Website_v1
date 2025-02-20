@@ -1,4 +1,86 @@
 
+* {
+    font-family: "Poppins", sans-serif;
+}
+body {
+    background-image: radial-gradient(#0c0000, #080018);
+    background-repeat: no-repeat;
+    max-height: max-content;
+    overflow-x: hidden;
+}
+
+/* faculty teams section */
+
+.team h2 {
+    color: rgb(226, 224, 219);
+    margin: auto;
+    width: 300px;
+    height: 50px;
+    font-family: "Raleway", sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+    position: relative;
+    align-items: center;
+    /* padding: 5px 30px; */
+}
+.team #team {
+    font-size: 35px;
+
+    /* text-transform: uppercase; */
+    color: #dd3005;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+}
+.team p {
+    color: #cecece;
+    font-size: 18px;
+    margin: auto;
+    width: 700px;
+    @media screen and (max-width: 768px) {
+        width: auto;
+        margin: 20px;
+    }
+}
+.container {
+    max-width: 990px;
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 40px;
+    font-family: "Raleway", sans-serif;
+    /* background-color: #080018; */
+    background: linear-gradient(71deg, #08050941, #1a171c71, #0805094f);
+}
+
+.section-title {
+    width: 100%;
+    padding: 0 15px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.section-title h2 {
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #ece3e3;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+    width: 450px;
+    margin-top: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img {
+    border-radius: 20px;
+    max-width: 80%;
+    vertical-align: middle;
+}
+.team {
+    min-height: 100vh;
+    padding: 80px 0;
+}
 .team-item {
     width: calc((100% / 2) - 194px);
     margin: 0 35px 30px;
@@ -80,12 +162,12 @@
     border: 3px solid #d33c00;
 }
 
-/* .fa-facebook {
-    color: #3B5998;
-  }
-  .fa-twitter {
-    color: #55ACEE;
-  } */
+.fa-facebook {
+    color: #3b5998;
+}
+.fa-twitter {
+    color: #55acee;
+}
 
 .fa-envelope {
     color: #4ac6ff;
@@ -120,7 +202,6 @@
     max-width: 990px;
     margin: auto;
     margin-top: 25px;
-    /* border: 2px solid yellow; */
     border-radius: 40px;
     font-family: "Raleway", sans-serif;
     /* background-color: #080018; */
@@ -147,9 +228,6 @@
     display: flex;
     flex-wrap: wrap;
     border: 1px solid transparent;
-    /* border-color: crimson; */
-
-    /* justify-content: center; */
 }
 img {
     border-radius: 20px;
@@ -241,6 +319,65 @@ img {
     border: 3px solid #d33c00;
 }
 
+/* .fa-facebook {
+    color: #3b5998;
+} */
+.fa-twitter {
+    color: #55acee;
+}
+.fa-instagram {
+    color: #e1306c;
+}
+.fa-linkedin {
+    color: #007bb5;
+}
+.credit a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 800;
+}
+.credit {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media (max-width: 991px) {
+    .team-item {
+        width: calc(50% - 30px);
+    }
+}
+@media (max-width: 575px) {
+    .team-item {
+        width: calc(100% - 30px);
+    }
+}
+
+.section-title {
+    width: 100%;
+    padding: 0 15px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.section-title h2 {
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #ece3e3;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+    width: 480px;
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 20px;
+    max-width: 68%;
+    vertical-align: middle;
+}
+.team {
+    min-height: 100vh;
+    padding: 80px 0;
+}
+
 .fa-facebook {
     color: #3b5998;
 }
@@ -273,73 +410,6 @@ img {
         width: calc(100% - 30px);
     }
 }
-
-/* Web develpoer section stylings */
-.container-web {
-    max-width: 990px;
-    margin: auto;
-    margin-top: 25px;
-    border-radius: 40px;
-    font-family: "Raleway", sans-serif;
-    /* background-color: #080018; */
-    background: linear-gradient(71deg, #08050941, #1a171c71, #0805094f);
-}
-
-.section-title {
-    width: 100%;
-    padding: 0 15px;
-    text-align: center;
-    margin-bottom: 60px;
-}
-.section-title h2 {
-    font-size: 35px;
-    text-transform: uppercase;
-    color: #ece3e3;
-    font-weight: 700;
-    font-family: "Raleway", sans-serif;
-    width: 480px;
-    margin-top: 20px;
-}
-
-.row-web {
-    display: flex;
-    flex-wrap: wrap;
-
-    justify-content: center;
-}
-img {
-    border-radius: 20px;
-    max-width: 68%;
-    vertical-align: middle;
-}
-.team {
-    min-height: 100vh;
-    padding: 80px 0;
-}
-
-.fa-facebook {
-    color: #3b5998;
-}
-.fa-twitter {
-    color: #55acee;
-}
-.fa-instagram {
-    color: #e1306c;
-}
-.fa-linkedin {
-    color: #007bb5;
-}
-
-@media (max-width: 991px) {
-    .team-item {
-        width: calc(50% - 30px);
-    }
-}
-@media (max-width: 575px) {
-    .team-item {
-        width: calc(100% - 30px);
-    }
-}
 @media only screen and (max-width: 479px) {
     .team {
         overflow-x: hidden;
@@ -359,34 +429,43 @@ img {
         margin: 10px 20px;
     }
 
+    .container {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .section-title {
+        width: 100%;
+        margin: 20px;
+        padding: 0;
+    }
+    .section-title h2 {
+        font-size: 25px;
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .row {
+        align-items: center;
+        width: 80%;
+        margin: 0 auto;
+    }
     .team-item {
         width: calc(100% - 35px);
         margin: 0 15px 10px;
-        position: relative;
-        transition: box-shadow 0.5s ease;
         border-radius: 20px;
     }
     .team-item h4 {
-        font-family: "Raleway", sans-serif;
-        position: absolute;
-        background: #070707bd;
         right: 0;
         bottom: 15px;
         padding: 2px 10px;
         border-radius: 4px;
-        color: #fff;
         font-size: 11px;
         font-weight: 500;
-        text-transform: capitalize;
-        z-index: 2;
-        transition: right 0.5s ease;
         margin-left: 75px;
     }
     .team-item h4 span {
-        display: block;
         font-size: 10px;
         font-weight: 400;
-        color: #fff;
     }
     /* .team-item:hover {
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -401,7 +480,6 @@ img {
     img {
         border-radius: 20px;
         max-width: 80%;
-        vertical-align: middle;
         margin: 10px 30px;
     }
     /* .team {
@@ -418,58 +496,48 @@ img {
 
     /* core team responsiveness */
     .container-core {
-        margin-top: 10px; /* Further reduced margin for smaller screens */
+        margin-top: 10px;
     }
 
     .section-title h2 {
-        font-size: 24px; /* Further reduced font size for smaller screens */
+        font-size: 24px;
     }
 
     .coreteam-item {
         /* width: calc(65% - 5px);  */
-        width: calc(100% - 145px); /* Adjusted width for two items per row */
-        margin: 0px -17px 0px; /* Adjusted margin for spacing between items */ /* Full width for smaller screens */
+        width: calc(100% - 145px);
+        margin: 0px -17px 0px;
     }
     /* .row-core .coreteam-item img {
         border-radius: 20px;
         max-width: 100%;
 
-        /* vertical-align: middle; */
+         vertical-align: middle; */
     .section-title {
-        margin-bottom: 0px; /* Further reduced margin for smaller screens */
+        margin-bottom: 0px;
     }
 
     .section-title h2 {
-        margin-top: 15px; /* Adjusted margin for smaller screens */
+        margin-top: 15px;
     }
     /* names */
     .coreteam-item h3 {
-        font-family: "Raleway", sans-serif;
-        position: absolute;
-        background: #070707bd;
         right: 4px;
         bottom: 15px;
         padding: 2px 12px;
         border-radius: 4px;
-        color: #fff;
         font-size: 12px;
         font-weight: 500;
-        text-transform: capitalize;
-        z-index: 2;
-        transition: right 0.5s ease;
         margin-left: 75px;
     }
     .coreteam-item:hover h3 {
         right: 20px;
-        background: #070707ea;
     }
     .coreteam-item:hover img {
         transform: translateX(30px);
     }
     .coreteam-item h3 span {
-        display: block;
         font-size: 10px;
         font-weight: 400;
-        color: #fff;
     }
 }

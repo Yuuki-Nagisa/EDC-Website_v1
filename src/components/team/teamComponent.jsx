@@ -12,7 +12,7 @@ function getIconClassName(iconName) {
 }
 
 export default function TeamComponent({
-    Name,
+    name,
     role,
     image,
     LinkedIn,
@@ -21,10 +21,10 @@ export default function TeamComponent({
     email,
 }) {
     return (
-        <div className="team-item">
+        <div className="team-item coreteam-item">
             <img src="https://placehold.co/100x100/png" alt="team" />
             <h4>
-                {Name}
+                {name}
                 <br />
                 <span>Coordinator</span>
             </h4>

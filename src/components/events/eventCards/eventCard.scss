@@ -53,7 +53,8 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin-top: 20px;
+    margin-top: 16px;   // reduced top margin
+    margin-bottom: 16px; // added bottom margin for even spacing
     cursor: pointer;
     align-self: center;
     transition-duration: 0.4s;
@@ -140,7 +141,8 @@
     .event-button {
         padding: 15px 32px;
         font-size: 14px;
-        margin-top: 20px;
+        margin-top: 12px;
+        margin-bottom: 12px;
     }
 
     .event-card .event-card-img-top {

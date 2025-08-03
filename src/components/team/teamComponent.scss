@@ -7,6 +7,7 @@ body {
     background-repeat: no-repeat;
     max-height: max-content;
     overflow-x: hidden;
+    
 }
 
 /* faculty teams section */
@@ -22,6 +23,10 @@ body {
     position: relative;
     align-items: center;
     /* padding: 5px 30px; */
+}
+.item-img{
+    width: 400px;
+    height: 200px;
 }
 .team #team {
     font-size: 35px;
@@ -55,7 +60,6 @@ body {
     width: 100%;
     padding: 0 15px;
     text-align: center;
-    margin-bottom: 60px;
 }
 .section-title h2 {
     font-size: 35px;
@@ -68,25 +72,26 @@ body {
 }
 
 .row {
+    height: 10vh;
+    margin: 50px 50px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 img {
     border-radius: 20px;
     max-width: 80%;
     vertical-align: middle;
 }
-.team {
-    min-height: 100vh;
-    padding: 80px 0;
-}
+
 .team-item {
     width: calc((100% / 2) - 194px);
     margin: 0 35px 30px;
     position: relative;
     transition: box-shadow 0.5s ease;
     border-radius: 20px;
+    display: flex;
 }
 .team-item:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -201,7 +206,6 @@ img {
 .container-core {
     max-width: 990px;
     margin: auto;
-    margin-top: 25px;
     border-radius: 40px;
     font-family: "Raleway", sans-serif;
     /* background-color: #080018; */
@@ -212,7 +216,7 @@ img {
     width: 100%;
     padding: 0 15px;
     text-align: center;
-    margin-bottom: 60px;
+    
 }
 .section-title h2 {
     font-size: 35px;
@@ -224,9 +228,15 @@ img {
     margin-top: 20px;
 }
 
+.gap{
+    gap:1px;
+}
 .row-core {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
     border: 1px solid transparent;
 }
 img {
@@ -234,10 +244,7 @@ img {
     max-width: 68%;
     /* vertical-align: middle; */
 }
-.team {
-    min-height: 100vh;
-    padding: 80px 0;
-}
+
 .coreteam-item {
     width: calc((100% / 3) - 30px);
     margin: 0 15px 30px;
@@ -356,7 +363,7 @@ img {
     width: 100%;
     padding: 0 15px;
     text-align: center;
-    margin-bottom: 60px;
+    
 }
 .section-title h2 {
     font-size: 35px;
@@ -371,11 +378,8 @@ img {
 img {
     border-radius: 20px;
     max-width: 68%;
+    object-fit: cover;   
     vertical-align: middle;
-}
-.team {
-    min-height: 100vh;
-    padding: 80px 0;
 }
 
 .fa-facebook {
@@ -413,6 +417,9 @@ img {
 @media only screen and (max-width: 479px) {
     .team {
         overflow-x: hidden;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .team h2 {
         font-size: 25px;
@@ -436,7 +443,7 @@ img {
     }
     .section-title {
         width: 100%;
-        margin: 20px;
+        margin: 0px;
         padding: 0;
     }
     .section-title h2 {
@@ -447,7 +454,7 @@ img {
     .row {
         align-items: center;
         width: 80%;
-        margin: 0 auto;
+        
     }
     .team-item {
         width: calc(100% - 35px);
@@ -496,7 +503,7 @@ img {
 
     /* core team responsiveness */
     .container-core {
-        margin-top: 10px;
+        margin-top: 0px;
     }
 
     .section-title h2 {

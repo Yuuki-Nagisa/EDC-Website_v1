@@ -1,215 +1,479 @@
 [
     {
+        "name": "Subhrajit Talukdar",
+        "image":"member\\Core\\Subhrajit.jpeg",
+        "email": "subhrajittalukdar411@gmail.com",
+        "type":"web",
+        "Module": "B Tech",
+        "Year": "4th Year",
+        "position":"Website Incharge",
+        "Branch": "CSE ",
+        "LinkedIn":"subhrajit-talukdar-0ab10925a",
+        "Instagram":"captain__valentino",
+        "Github":"subhrajit77"
+    },
+    {
         "name": "Abhishek Kashyap",
+        "image":"member\\Core\\Abhishek Kashyap.jpeg",
         "email": "u22ece1048@cit.ac.in",
+        "type":"web",
+        "position":"Website Incharge",
         "Module": "B Tech",
-        "Github": "Abhishek10351"
-    },
-    {
-        "name": "Lohit Handique ",
-        "email": "u24ece1013@cit.ac.in",
+        "Year": "4th Year",
+        "Branch": "CSE ",
+        "Github": "Abhishek10351",
+        "LinkedIn":"abhishek30125",
+        "Instagram":"#"
+    },{
+        "name": "Jonak Thakuria ",
+        "email": "jonakp.thakuria@gmail.com",
+        "type":"web",
+        "position":"Website Incharge",
         "Module": "B Tech",
-        "Year": 1,
-        "Branch": "ECE ",
-        "Instagram": "lohit.h_",
-        "LinkedIn": "lohit-handique-833b59238"
+        "Year": "2nd Year",
+        "Branch": "CSE ",
+        "Github": "Abhishek10351",
+        "LinkedIn":"jonak-thakuria-a418222a1"
     },
     {
-        "name": "PRIYANSHU DEV NATH ",
-        "email": "u23ece1039@cit.ac.in",
+        "name": "Kinjal Kavish Boro",
+        "email": "borokinjalkavish@gmail.com",
+        "type":"web",
+        "position":"Website Incharge",
         "Module": "B Tech",
-        "Year": 2,
-        "Branch": "ECE ",
-        "Instagram": "dev_priyanshuu",
-        "LinkedIn": "priyanshu-dev-nath-38b640283"
+        "Year": "2nd Year",
+        "Branch": "CSE ",
+        "Github": "localrice",
+        "LinkedIn":"kinjal-kavish-boro-b014aa317",
+        "Instagram":"knzl.flac"
     },
     {
-        "name": "Bharnab Kalita",
-        "email": "u24ce1036@cit.ac.in",
+        "name": "Dibyojit Paul",
+        "email": "paul.dibyojit2005@gmail.com",
+        "image":"member\\Core\\Dibyojit Paul.jpg",
+        "type":"web",
+        "position":"Website Incharge",
         "Module": "B Tech",
-        "Year": 1,
-        "Branch": "CE",
-        "Instagram": "bharnab_07",
-        "LinkedIn": null
+        "Year": "2nd Year",
+        "Branch": "CSE ",
+        "Github": "Yuuki-Nagisa",
+        "LinkedIn":"dibyojit-paul",
+        "Instagram":"yuuki_nagisa_"
     },
     {
-        "name": "Hiyamani Brahma ",
-        "email": "U24cse1041@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "Cse",
-        "Instagram": "__hiya_mani_brahma__",
-        "LinkedIn": null
-    },
-    {
-        "name": "Dipthangshu Basumatary",
-        "email": "u24cse1017@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "CSE",
-        "Instagram": "_dipbty_",
-        "LinkedIn": null
-    },
-    {
-        "name": "kuldeep Dekaraja ",
-        "email": "d23amt1005@cit.ac.in",
-        "Module": "Diploma",
-        "Year": 2,
-        "Branch": "AMT ",
-        "Instagram": "K_inkk_des",
-        "LinkedIn": null
-    },
-    {
-        "name": "Himanshu Deka",
-        "email": "u24fet1041@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "FET",
-        "Instagram": "himanshuiism",
-        "LinkedIn": null
-    },
-    {
-        "name": "Gitartha Singha ",
-        "email": "u24ce1010@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "CE ",
-        "Instagram": "gitartha_singha_",
-        "LinkedIn": "gitartha-singha-8b7059320"
-    },
-    {
-        "name": "Jubin Das ",
-        "email": "u24ece1045@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "ECE",
-        "Instagram": "jubin._.das",
-        "LinkedIn": "jubin-das"
-    },
-    {
-        "name": "Swarnamika Deka ",
-        "email": "u23ce1010@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "CE ",
-        "Instagram": null,
-        "LinkedIn": null
-    },
-    {
-        "name": "Khushi Gupta ",
-        "email": "u24fet1008@cit.ac.in ",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "FET",
-        "Instagram": "urfav.softmuff",
-        "LinkedIn": "khushi-gupta-bb23a226a"
-    },
-    {
-        "name": "Kishore Sonu Guria ",
-        "email": "u23ece1056@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 2,
-        "Branch": "ECE",
-        "Instagram": "doysira",
-        "LinkedIn": null
-    },
-    {
-        "name": "Utpal Kumar ",
-        "email": "u22ece1048@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 3,
-        "Branch": "ECE ",
-        "Instagram": null,
-        "LinkedIn": "utpal-kumar-7b1792278"
-    },
-    {
-        "name": "Bhargab Bhagaban Medhi",
-        "email": "u24ce1047@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "CE",
-        "Instagram": "_the_bhargav_00",
-        "LinkedIn": null
-    },
-    {
-        "name": "Pragyan Bikash Deka",
-        "email": null,
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "Civil",
-        "Instagram": "pragyanbdeka",
-        "LinkedIn": null
-    },
-    {
-        "name": "Nitin Kumar ",
-        "email": "d23ece1022@cit.ac.in",
-        "Module": "Diploma",
-        "Year": 2,
-        "Branch": "ECE",
-        "Instagram": "ig__nitin__",
-        "LinkedIn": "nitin-kumar-2411a32b1"
-    },
-    {
-        "name": "Jugantar Bijoy Borah ",
-        "email": "u24ie1053@cit.ac.in",
-        "Module": "B Tech",
-        "Year": 1,
-        "Branch": "IE",
-        "Instagram": "__.jugantar.__",
-        "LinkedIn": null
+        "name": "Ajit Singh",
+        "image":"member\\Core\\Ajit singh.jpg",
+        "email": "u23mcd10088@cit.ac.in",
+        "type":"core",
+        "Module": "B Des",
+        "position":"Chief Convenor",
+        "Year": "3rd Year",
+        "Branch": "MCD",
+        "LinkedIn":"ajit-singh-540810282",
+        "Instagram":"ajjaayyyyyy._"
     },
     {
         "name": "Bhumistha Das ",
         "email": "u23ce3087@cit.ac.in",
+        "image":"member\\Core\\BHUMISTHA DAS.jpg",
+        "type":"core",
+        "position":"Asst Chief Convenor",
         "Module": "B Tech",
-        "Year": 2,
+        "Year": "3rd Year",
         "Branch": "CE ",
         "Instagram": "bhumistha_das_",
         "LinkedIn": null
     },
     {
-        "name": "Akash Giri ",
-        "email": "u23ie1057@cit.ac.in",
+        "name": "PRIYANSHU DEV NATH ",
+        "email": "u23ece1039@cit.ac.in",
+        "image":"member\\Core\\PRIYANSHU DEV NATH.jpg",
+        "type":"core",
         "Module": "B Tech",
-        "Year": 2,
-        "Branch": "IE",
-        "Instagram": "_akash.girii_",
+        "position":"Convenor",
+        "Year": "3rd Year",
+        "Branch": "ECE ",
+        "Instagram": "dev_priyanshuu",
+        "LinkedIn": "priyanshu-dev-nath-38b640283"
+    },
+    { 
+        "name": "Vikram Kalita",
+        "email": "u23ce3089@cit.ac.in",
+        "type":"core",
+        "image":"member\\Core\\VIKRAM KALITA.jpg",
+        "position":"Convenor",
+        "Module": "B Tech",
+        "Year": "3rd Year",
+        "Branch": "CE ",
+        "LinkedIn": "#"
+    },
+    {
+        "name": "Arnab Sashi ",
+        "email": "u22ece3089@cit.ac.in",
+        "image":"member\\Core\\ARNAB SASHI.jpeg",
+        "type":"core",
+        "position":"Student Advisor",
+        "Module": "B Tech",
+        "Year": "4th Year",
+        "Branch": "ECE",
+        "Instagram": "arnabsashi",
+        "LinkedIn": null
+    },
+{
+        "name": "Mriganav Baishya",
+        "email": "u22ie1032@cit.ac.in",
+        "type":"core",
+        "position":"Student Advisor",
+        "image":"member\\Core\\Mriganav Baishya.jpg",
+        "Module": "B Tech",
+        "Year": "4th Year",
+        "Branch": "IE ",
+        "Instagram": "mriganav_baishya",
+        "LinkedIn": "mriganav-baishya-5a628924b"
+    },
+    {
+        "name": "Himaraj Doley",
+        "email": "u22cse3131@cit.ac.in",
+        "image":"member\\Core\\HIMRAJ DOLEY.jpg",
+        "type":"core",
+        "position":"Student Advisor",
+        "Module": "B Tech",
+        "Year": "4th Year",
+        "Branch": "CSE ",
+        "LinkedIn": "#"
+    },
+    
+    {
+        "name": "Bibek Bayan",
+        "email": "u22ie1022@cit.ac.in",
+        "image":"member\\Core\\BIBEK BAYAN.jpg",
+        "type":"core",
+        "position":"Student Advisor",
+        "Module": "B Tech",
+        "Year": "4th Year",
+        "Branch": "IE ",
+        "LinkedIn": "#"
+    },
+    {
+        "name": "Nayanmani Mushahalry",
+        "email": "u22cse1005 @cit.ac.in",
+        "image":"member\\Core\\NAYANMANI MASHAHARY.jpeg",
+        "type":"core",
+        "position":"Student Advisor",
+        "Module": "B Tech",
+        "Year": "4th Year",
+        "Branch": "CSE ",
+        "LinkedIn": "#"
+    },
+    {
+        "name": "Pooja Priya Brahma",
+        "email": "u22ce1007@cit.ac.in",
+        "image":"member\\Core\\POOJA PRIYA BRAHMA.jpg",
+        "type":"core",
+        "position":"Student Advisor",
+        "Module": "B Tech",
+        "Year": "4th Year",
+        "Branch": "CE ",
+        "LinkedIn": "#"
+    },
+    
+    {
+        "name": "Kuldeep Dekaraja ",
+        "email": "kuldeepdekaraja@gmail.com",
+        "type":"core",
+        "Module": "Diploma",
+        "position":"Content Incharge (Youtube Access)",
+        "Year": "3rd Year",
+        "Branch": "AMT ",
+        "Instagram": "K_inkk_des",
+        "LinkedIn": null
+    },
+    
+    {
+        "name": "Chayan Hukai",
+        "email": "u23mcd1026@gmail.com",
+        "image":"member\\Core\\CHAYAN HUKAI.jpg",
+        "type":"core",
+        "Module": "B Des",
+        "position":"Design Incharge",
+        "Year": "3rd Year",
+        "Branch": "MCD",
+        "Instagram": "",
+        "LinkedIn": null
+    },
+    {
+        "name": "Rohit Mazumdar",
+        "email": "u24mcd1007@cit.ac.in",
+        "image":"member\\Core\\Rohit Mazumdar.jpg",
+        "type":"core",
+        "Module": "B Des",
+        "position":"Design Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "MCD",
+        "Instagram": "",
+        "LinkedIn": null
+    },
+    {
+        "name": "Mandeep Kalita ",
+        "image":"member\\Core\\Mandeep Kalita.jpg",
+        "email": "u24mcd1027@cit.ac.in",
+        "type":"core",
+        "Module": "B Des",
+        "Year": "2nd Year",
+        "position":"Design Co-ordinator",
+        "Branch": "MCD",
+        "Instagram": "ma.ndeep8995_",
         "LinkedIn": null
     },
     {
         "name": "Himanshu Deka",
         "email": "u24fet1041@cit.ac.in",
+        "image":"member\\Core\\HIMANSHU DEKA.png",
+        "type":"core",
         "Module": "B Tech",
-        "Year": 1,
-        "Branch": "Fet",
+        "position":"Co-ordinator (LinkedIn Access)",
+        "Year": "2nd Year",
+        "Branch": "FET",
         "Instagram": "himanshuiism",
         "LinkedIn": null
     },
     {
-        "name": "Nataksha Basumatary ",
-        "email": "u24ie1024@cit.ac.in",
+        "name": "Khushi Gupta ",
+        "email": "u24fet1008@cit.ac.in ",
+        "type":"core",
+        "image":"member\\Core\\KHUSHI GUPTA.jpg",
+        "position":"Co-ordinator (LinkedIn Access)",
         "Module": "B Tech",
-        "Year": 1,
-        "Branch": "IE",
-        "Instagram": "@bh_mi__",
-        "LinkedIn": "nataksha-basumatary-9a1709335"
+        "Year": "2nd Year",
+        "Branch": "FET",
+        "Instagram": "urfav.softmuff",
+        "LinkedIn": "khushi-gupta-bb23a226a"
     },
+    
     {
-        "name": "Akash Giri ",
-        "email": "u23ie1057@cit.ac.in",
+        "name": "Bharnab Kalita",
+        "email": "u24ce1036@cit.ac.in",
+        "image":"member\\Core\\Bharnab Kalita.jpg",
+        "type":"core",
         "Module": "B Tech",
-        "Year": 2,
-        "Branch": "IE",
-        "Instagram": "_akash.girii_",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "CE",
+        "Instagram": "bharnab_07",
+        "LinkedIn": null},
+
+    {
+        "name": "Swarnamika Deka ",
+        "email": "u23ce1010@cit.ac.in",
+        "image":"member\\Core\\SWARNAMIKA DEKA.jpg",
+        "type":"core",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "CE ",
+        "Instagram": null,
         "LinkedIn": null
     },
     {
-        "name": "Mandeep Kalita ",
-        "email": "u24mcd1027@cit.ac.in",
-        "Module": "B Des",
-        "Year": 1,
-        "Branch": "MCD",
-        "Instagram": "ma.ndeep8995_",
+        "name": "Lohit Handique ",
+        "email": "u24ece1013@cit.ac.in",
+        "type":"core",
+        "image":"member\\Core\\LOHIT HANDIQUE.jpg",
+        "Module": "B Tech",
+        "Year": "2nd Year",
+        "position":"Co-ordinator",
+        "Branch": "ECE ",
+        "Instagram": "lohit.h_",
+        "LinkedIn": "lohit-handique-833b59238"
+    },
+    {
+        "name": "Nitin Kumar ",
+        "email": "d23ece1022@cit.ac.in",
+        "image":"member\\Core\\NITIN KUMAR.jpg",
+        "type":"core",
+        "Module": "Diploma",
+        "position":"Co-ordinator",
+        "Year": "3rd Year",
+        "Branch": "ECE",
+        "Instagram": "ig__nitin__",
+        "LinkedIn": "nitin-kumar-2411a32b1"
+    },
+   
+
+    {
+        "name": "Gitartha Singha ",
+        "email": "u24ce1010@cit.ac.in",
+        "image":"member\\Core\\GITARTHA SINGHA.jpg",
+        "type":"core",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "CE ",
+        "Instagram": "gitartha_singha_",
+        "LinkedIn": "gitartha-singha-8b7059320"
+    },
+    {
+        "name": "Pragyan Bikash Deka",
+        "email": null,
+        "image":"member\\Core\\PRAGYAN BIKASH DEKA.jpeg",
+        "type":"core",
+        "position":"Co-ordinator",
+        "Module": "B Tech",
+        "Year": "2nd Year",
+        "Branch": "CE ",
+        "Instagram": "pragyanbdeka",
         "LinkedIn": null
+    }
+    ,{
+        "name": "Nabaneet Kaushik Bora",
+        "type":"core",  
+        "image":"member\\Core\\NABANEET KAUSHIK BORA.jpg",
+        "email": "u24ce1046@cit.ac.in",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "CE",
+        "Instagram": "__nabaneet_kaushik__",
+        "LinkedIn": null
+    },{
+        "name": "Sumit Kumar Shah",
+        "type":"core",  
+        "image":"member\\Core\\SUMIT KUMAR SHAH.jpg",
+        "email": "u24fet1052@cit.ac.in",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "FET",
+        "Instagram": "",
+        "LinkedIn": null
+    },
+    {
+        "name": "Jubin Das ",
+        "email": "u24ece1045@cit.ac.in",
+        "image":"member\\Core\\JUBIN DAS.jpg",
+        "type":"core",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "ECE",
+        "Instagram": "jubin._.das",
+        "LinkedIn": "jubin-das"
+    },
+    
+    
+    {
+        "name": "Kishore Sonu Guria ",
+        "email": "u23ece1056@cit.ac.in",
+        "image":"member\\Core\\KISHORE SONU GURIA.jpg",
+        "type":"core",
+        "position":"Co-ordinator",
+        "Module": "B Tech",
+        "Year": "3rd Year",
+        "Branch": "ECE",
+        "Instagram": "doysira",
+        "LinkedIn": null
+    },
+    
+    {
+        "name": "Bhargab Bhagaban Medhi",
+        "image":"member\\Core\\BHARGAB BHAGABAN MEDHI.jpg",
+        "email": "bhargavmedhi19@gmail.com",
+        "type":"core",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "CE",
+        "Instagram": "_the_bhargav_00",
+        "LinkedIn": null
+    },
+     
+    {
+        "name": "Bastav Jyoti Dutta",
+        "image":"member\\Core\\Bastav Jyoti Dutta.jpg",
+        "email": "bhargavmedhi19@gmail.com",
+        "type":"core",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "CE",
+        "Instagram": "",
+        "LinkedIn": null
+    },
+    
+    {
+        "name": "Ravi Kumar",
+        "image":"member\\Core\\Ravi Kumar.png",
+        "email": "d24cse1002@cit.ac.in",
+        "type":"core",
+        "Module": "Diploma",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "CsE",
+        "Instagram": "",
+        "LinkedIn": null
+    },
+    {
+        "name": "Jugantar Bijoy Borah ",
+        "email": "u24ie1053@cit.ac.in",
+        "type":"core",
+        "Module": "B Tech",
+        "position":"Co-ordinator",
+        "Year": "2nd Year",
+        "Branch": "IE",
+        "Instagram": "__.jugantar.__",
+        "LinkedIn": null
+    },
+
+   {
+        "name": "Dr. Pranav Kumar Singh ",
+        "email": "pranavsir@example.com",
+        "type":"faculty",
+        "image":"member\\Faculty\\Pranav sir new.jpg",
+        "position": "Associate Professor, Dean(AER)",
+        "LinkedIn":null
+    },
+    {
+        "name": "Dr. Dipen Deka",
+        "email": "Dipensir@example.com",
+        "type":"faculty",
+        "image":"member\\Faculty\\Dipen Sir.jpg",
+        "position": "Associate Professor",
+        "LinkedIn": null
+    },{
+        "name": "Dr. Gunajit Sarma",
+        "email": "gunajitsir@example.com",
+        "type":"faculty",
+        "position": "Associate Professor",
+        "image":"member\\Faculty\\Gunajit sir.jpg",
+        "LinkedIn": null
+    }
+    ,{
+        "name": "Dr. Kaushik Ch Deva Sarma",
+        "email": "kaushiksir@example.com",
+        "type":"faculty",
+        "position": "Associate Professor",
+        "image":"member\\Faculty\\Kaushik sir neww.jpg",
+        "LinkedIn": null
+    }
+    ,{
+        "name":"Chandramallika Das",
+        "type":"alumni",
+        "image":"member\\Core\\Chandramallika Das.jpg",
+        "position":"Advisor",
+        "Module":"B Tech",
+        "Year":"Batc Yearh 2024",
+        "LinkedIn":"chandramallika-das",
+        "Instagram":"sara19_2.0"
+
+    },{
+        "name":"Eshwar Galam",
+        "type":"alumni",
+        "image":"member\\Core\\Eshwar Galam.jpg",
+        "position":"Advisor",
+        "Module":"B Tech",
+        "Year":"Batc Yearh 2023",
+        "LinkedIn":"eshwargalam7",
+        "Instagram":"eshwar_traverse"
+
     }
 ]

@@ -58,8 +58,8 @@ export default function Carousel() {
                             <Image
                                 src={`/assets/carousel-img/${slide.image}`}
                                 alt={slide.alt}
-                                width="100"
-                                height="50"
+                                width="600"
+                                height="400"
                                 quality={100}
                                 priority= {true} />
                         ) : (

@@ -1,5 +1,14 @@
-import { UnderConstruction } from '@/components/udbhav';
+import {
+  UnderConstruction,
+  UdbhavHero,
+  UdbhavNavbar,
+} from "@/components/udbhav";
 
 export default function Udbhav() {
-  return <UnderConstruction />;
+  return (
+    <>
+      <UdbhavHero />
+      <UdbhavNavbar />
+    </>
+  );
 }

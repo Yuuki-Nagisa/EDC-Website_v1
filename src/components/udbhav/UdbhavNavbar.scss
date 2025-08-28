@@ -25,9 +25,13 @@
 /* Sidebar */
 .nav-bar {
     position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 30vw; /* Adjust width as needed */
     height: 100vh;
-    background: rgba(255, 255, 255, 0.774);
+    color: black;
+    background:rgba(0, 0, 0, 0.35);
     top: 0;
     left: -50vw; /* Start off-screen to the left */
     transition: left 0.3s ease; /* Smooth slide effect */

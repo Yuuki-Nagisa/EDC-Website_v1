@@ -20,7 +20,7 @@ export default function UdbhavHero() {
       <div className="landing">
         <div className="landing-text">
           <h1 className="event-title animate__animated animate__fadeInUp">
-            Udbhav 2024
+            Udbhav 2026
           </h1>
           <p className="event-subtitle animate__animated animate__fadeInUp">
             Where Innovation Meets Creativity

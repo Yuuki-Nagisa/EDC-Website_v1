@@ -63,13 +63,17 @@
 
 .nav-menu-items {
     list-style-type: none;
-    padding: 20px; /* Add padding */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
 }
 
 /* Menu Item Styling */
 .nav-menu-items li {
-    margin-top: 20px;
-    margin-bottom: 40px; /* Space between items */
+    margin-top: 10px;
+    margin-bottom: 10px; /* Space between items */
     font-family: "Teko", sans-serif;
     font-optical-sizing: auto;
     font-weight: 600;

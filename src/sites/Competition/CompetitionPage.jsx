@@ -21,7 +21,7 @@ const expectedCompetitions = [
   { name: "Linkedin Post Challenge", logo: "/competitions/linkedin-post.webp" },
 ];
 
-function CompetitionSection({ title, items }) {
+function CompetitionSection({ title, items, showApply }) {
   return (
     <section className="sponsors">
       <h1>{title}</h1>
@@ -30,9 +30,21 @@ function CompetitionSection({ title, items }) {
         {items.map((item, index) => (
           <div className="sponsor-card" key={index}>
             <div className="logo-placeholder">
-              <Image src={item.logo} alt={item.name} width={160} height={90} />
+              <Image
+                src={item.logo}
+                alt={item.name}
+                width={160}
+                height={90}
+              />
             </div>
+
             <p>{item.name}</p>
+
+            {showApply && (
+              <a href="#" className="apply-btn">
+                Apply
+              </a>
+            )}
           </div>
         ))}
       </div>
@@ -46,14 +58,18 @@ export default function CompetitionPage() {
       <Navbar />
 
       <div className="sponsorpage">
+       
         <CompetitionSection
           title="Previous Competitions"
           items={previousCompetitions}
+          showApply={false}
         />
 
+       
         <CompetitionSection
           title="Expected Competitions"
           items={expectedCompetitions}
+          showApply={true}
         />
       </div>
 

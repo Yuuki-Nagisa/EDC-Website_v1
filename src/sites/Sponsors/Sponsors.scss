@@ -1,15 +1,10 @@
-.sponsorpage {
-    padding:14vh 0;
+.sponsorpage{
+  margin: 50ppx;
 }
 
-@media (max-width: 479px) {
-  .sponsorpage {
-    padding: 7vh 0;
-  }
-}
 
 .sponsors {
-  padding: 60px 2rem 4rem; 
+  padding: 120px 2rem 4rem; 
   text-align: center;
   color: white;
   background: radial-gradient(circle at top, #0f2027, #000);

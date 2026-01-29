@@ -38,6 +38,7 @@
     {
         "name": "Kinjal Kavish Boro",
         "email": "borokinjalkavish@gmail.com",
+        "image":"member\\Core\\kinjal.png",
         "type":"web",
         "position":"Website Incharge",
         "Module": "B Tech",
@@ -56,9 +57,9 @@
         "Module": "B Tech",
         "Year": "2nd Year",
         "Branch": "CSE ",
-        "Github": "___y_u_u_k_i___",
+        "Github": "Yuuki-Nagisa",
         "LinkedIn":"dibyojit-paul",
-        "Instagram":"yuuki_nagisa_"
+        "Instagram":"___y_u_u_k_i___"
     },
     {
         "name": "Ajit Singh",
@@ -255,17 +256,17 @@
     "Github": null
   },
   {
-    "name": "Subham",
+    "name": "Subham Pathak",
     "image": "member\\Core\\subham.jpeg",
-    "email": " ",
+    "email": "Email: lastw5232@gmail.com",
     "type": "web",
-    "Module": " ",
-    "Year": " ",
+    "Module": "B Tech",
+    "Year": "2nd Year",
     "position": "Web team",
-    "Branch": " ",
-    "LinkedIn": null,
-    "Instagram": null,
-    "Github": null
+    "Branch": "CSE",
+    "LinkedIn": "subhampathak",
+    "Instagram": "s_ubhqm",
+    "Github": "itzsubham2006"
   },
   {
     "name": "Geetesh Basumatary",

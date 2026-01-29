@@ -66,6 +66,11 @@ const UdbhavNavbar = () => {
               Sponsors
             </Link>
           </li>
+           <li>
+            <Link href="/competition" onClick={showSidebar}>
+              Competition
+            </Link>
+          </li>
           {/* <li><span className="nav-attr">emerge. evolve. exceed.</span></li> */}
         </ul>
       </nav>

@@ -1,8 +1,12 @@
-.sponsorpage{
-  margin: 50ppx;
+.sponsorpage {
+    padding:14vh 0;
 }
 
-
+@media (max-width: 479px) {
+  .sponsorpage {
+    padding: 7vh 0;
+  }
+}
 .sponsors {
   padding: 120px 2rem 4rem; 
   text-align: center;
